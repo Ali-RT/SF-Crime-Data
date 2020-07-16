@@ -55,7 +55,7 @@ In order to run the application you will need to start:
 
 ### Kafka Consumer Console Output
 
-![kafka consumer output](https://github.com/rubengura/SF_Crime_Statistics/blob/master/kafka-consumer-console-output.PNG)
+![kafka consumer output](/screenshots/Consumer_console_output.JPEG)
 
 ### Progress Reporter
 
