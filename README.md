@@ -1,5 +1,4 @@
-# udacity-datastreaming-class-project2
-SF Crime Data Project
+# Udacity SF Crime Data Project
 
 ## Submit codes
 
@@ -39,7 +38,7 @@ python kafka_server.py
 ```
 ### Consumer
 ```
-python consumer_server.py
+'python consumer_server.py'
 ```
 ### Data stream
 ```
