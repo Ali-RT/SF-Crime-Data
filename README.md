@@ -38,7 +38,7 @@ python kafka_server.py
 ```
 ### Consumer
 ```
-'python consumer_server.py'
+python consumer_server.py
 ```
 ### Data stream
 ```
