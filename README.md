@@ -20,7 +20,7 @@ A : I monitored the following parameters:
 
 Q : What were the 2-3 most efficient SparkSession property key/value pairs? Through testing multiple variations on values, how can you tell these were the most optimal?
 
-A : I checked `inputRowsPerSecond` and `processedRowsPerSecond` . Finally, I got a best key/value pairs like below.
+A : I realized that `inputRowsPerSecond` and `processedRowsPerSecond` are the two primary settings:
 
 ```
 spark.streaming.kafka.maxRatePerPartition : 100
