@@ -59,8 +59,8 @@ In order to run the application you will need to start:
 
 ### Progress Reporter
 
-![progress reporter](https://github.com/rubengura/SF_Crime_Statistics/blob/master/progress_report_console_output.PNG)
+![progress reporter](screenshots/Progress_Reporter.jpeg)
 
 ### Count Output
 
-![count output](https://github.com/rubengura/SF_Crime_Statistics/blob/master/count_console_output.PNG)
+![count output](screenshots/Count_Output.jpeg)
