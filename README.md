@@ -55,7 +55,7 @@ In order to run the application you will need to start:
 
 ### Kafka Consumer Console Output
 
-![kafka consumer output](/screenshots/Consumer_console_output.JPEG)
+![kafka consumer output](./screenshots/Consumer_Console_Output.JPEG)
 
 ### Progress Reporter
 
